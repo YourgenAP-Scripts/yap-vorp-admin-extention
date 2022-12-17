@@ -1,6 +1,8 @@
 # yap-vorp-admin-extention
 Small extension for VORP-Admin
 
+The Script is not supported. Feel free to edit it and share under the GNU Public License v3.
+
 ## Installation
 1) Download all the files and add to your resources folder
 2) Run SQL-File provided in the repository
